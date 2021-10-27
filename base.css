@@ -1,0 +1,13 @@
+/* 名称采用属性名+属性值首字母拼接*/
+.layout .df {
+  display: flex;
+}
+.layout .aic {
+  align-items: center;
+}
+.layout .jucc {
+  justify-content: center;
+}
+.layout .fullwidth {
+  width: 100%;
+}
